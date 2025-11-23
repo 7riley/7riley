@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://badge.les.bi/88x31/trans/lesbi/half/outset-double.png"/>
+</p>
+
+<p align="center">
   <a href="https://open.spotify.com/user/31kcl3foiantv5wvv4cryp2k5pbi">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
