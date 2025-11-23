@@ -29,16 +29,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7riley&layout=compact&title_color=F7A8B8&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 </p>
 
----
-
-### 🎧 About Me
-
-- vibing too hard probably  
-- drinking the gender juice 🧃  
-- coding when i should be sleeping  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=7riley&color=55CDFC" alt="profile views">
 </p>
